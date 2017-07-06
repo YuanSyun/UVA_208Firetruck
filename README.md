@@ -91,7 +91,7 @@ I've checked uDebug and the result is correct
 ![AcceableAlgorithm](/Image/AcceableAlgorithm.png)
 Time: 5.349s 
 
-![MyAlgorithmSpeed](/Image/The speed of my algorithm.png)
+![MyAlgorithmSpeed](/Image/MyAlgorithmSpeed.png)
 Time: 7.579s
 
 Test Data: https://www.udebug.com/UVa/208
