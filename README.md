@@ -82,7 +82,16 @@ http://notepad.yehyeh.net/Content/Algorithm/Sort/Quick/Quick.php
 	}//end findRoutes
 	
 ## Step4: Print Information
+None.
 
 ## My algorithm is not fast enough
-My algorithm is too slow to lead to a failed upload
+My algorithm is too slow to lead to a failed upload.
 I've checked uDebug and the result is correct
+
+![AcceableAlgorithm](/Image/AcceableAlgorithm.png)
+Time: 5.349s 
+
+![MyAlgorithmSpeed](/Image/The speed of my algorithm.png)
+Time: 7.579s
+
+Test Data: https://www.udebug.com/UVa/208
